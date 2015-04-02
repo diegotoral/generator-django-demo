@@ -156,4 +156,5 @@ EXTERNAL_APPS = (
 
 INTERNAL_APPS = (
     # Application specific apps
+    'tasks',
 )
